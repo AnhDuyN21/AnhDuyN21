@@ -33,4 +33,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/anhduyn21?theme=unicorn&font=Red%20Rose&ext=heatmap)
+<h3 align="left">Leet code:</h3>
+<img src="https://leetcard.jacoblin.cool/anhduyn21?theme=unicorn&font=Red%20Rose&ext=heatmap" width="100%"/>
