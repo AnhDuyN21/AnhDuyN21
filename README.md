@@ -4,7 +4,6 @@
 
 ### 🧑‍💻 About me
 -  Aiming to grow into a solid backend-focused fullstack engineer
--  Deepening my skills in Java (Spring) and C# (.NET), and exploring NestJS
 -  I care about clean code, clear database design and systems that are easy to maintain
 
 ### 🛠️ Tech stack
