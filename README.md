@@ -1,33 +1,36 @@
 <h1 align="center">Hi 👋, I'm Duy</h1>
+<h3 align="center">Fullstack Developer from Vietnam 🇻🇳</h3>
 
-- 📫 How to reach me **duynguyenbt21093@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/anhduy21092002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anhduy21092002" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnhDuyN21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".net core" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+### 🧑‍💻 About me
+- 🔭 Building a restaurant POS platform used by 100+ stores at **HYOJUNG SOFTTECH**
+- 🛠️ Working across desktop (C++), web (ASP.NET, Spring MVC) and Android (Kotlin)
+- 📦 Previously built a warehouse inventory system with Spring Boot + SQL Server
+- 📫 Reach me at: **duynguyenbt21093@gmail.com**
+
+### 🛠️ Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,cpp,kotlin,androidstudio,sqlite,git" alt="tech stack" />
 </p>
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+
+### 📊 GitHub stats
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhDuyN21&theme=tokyonight" alt="profile details" />
+</p>
+<p>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnhDuyN21&theme=tokyonight" alt="stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhDuyN21&theme=tokyonight" alt="repos per language" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=AnhDuyN21&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+### 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anhduyn21)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=duynguyenbt21093@gmail.com&su=Hello%20Duy)
