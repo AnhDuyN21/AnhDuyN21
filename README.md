@@ -6,9 +6,10 @@
 </p>
 
 ### 🧑‍💻 About me
-- 🔭 Building a restaurant POS platform used by 100+ stores at **HYOJUNG SOFTTECH**
-- 🛠️ Working across desktop (C++), web (ASP.NET, Spring MVC) and Android (Kotlin)
-- 📦 Previously built a warehouse inventory system with Spring Boot + SQL Server
+- 🎯 Aiming to grow into a solid backend-focused fullstack engineer
+- 🌱 Deepening my skills in Java (Spring) and C# (.NET), and exploring NestJS
+- 🔬 Curious about computer vision with C++ and OpenCV
+- 💡 I care about clean code, clear database design and systems that are easy to maintain
 - 📫 Reach me at: **duynguyenbt21093@gmail.com**
 
 ### 🛠️ Tech stack
