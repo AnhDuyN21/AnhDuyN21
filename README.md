@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Duy</h1>
-<h3 align="center">Fullstack Developer from Vietnam 🇻🇳</h3>
+<p align="center"><i>"There is no right choice. I choose, and I make it right."</i></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnhDuyN21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ### 🧑‍💻 About me
-- 🎯 Aiming to grow into a solid backend-focused fullstack engineer
-- 🌱 Deepening my skills in Java (Spring) and C# (.NET), and exploring NestJS
-- 🔬 Curious about computer vision with C++ and OpenCV
-- 💡 I care about clean code, clear database design and systems that are easy to maintain
-- 📫 Reach me at: **duynguyenbt21093@gmail.com**
+-  Aiming to grow into a solid backend-focused fullstack engineer
+-  Deepening my skills in Java (Spring) and C# (.NET), and exploring NestJS
+-  I care about clean code, clear database design and systems that are easy to maintain
 
 ### 🛠️ Tech stack
 <p>
