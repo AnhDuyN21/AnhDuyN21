@@ -20,7 +20,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 
-### 📊 GitHub stats
+###  GitHub stats
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhDuyN21&theme=tokyonight" alt="profile details" />
 </p>
