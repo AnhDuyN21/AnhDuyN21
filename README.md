@@ -16,13 +16,6 @@
 
 ###  GitHub stats
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnhDuyN21&theme=tokyonight" alt="profile details" />
-</p>
-<p>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnhDuyN21&theme=tokyonight" alt="stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhDuyN21&theme=tokyonight" alt="repos per language" />
-</p>
-<p>
   <img src="https://streak-stats.demolab.com/?user=AnhDuyN21&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
